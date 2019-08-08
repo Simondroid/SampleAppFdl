@@ -1,0 +1,2 @@
+include ':app', ':instantfeature'
+rootProject.name='SampleAppFdl'
